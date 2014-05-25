@@ -10,12 +10,12 @@
 #include <QFile>
 #include <QTextCodec>
 
-#include "Categorie.h"
+/*#include "Categorie.h"
 #include "CategorieM.h"
 #include "Credit.h"
 #include "Dossier.h"
 #include "DossierM.h"
-#include "Formation.h"
+
 #include "FormationM.h"
 #include "Inscription.h"
 #include "InscriptionM.h"
@@ -24,10 +24,11 @@
 #include "UVM.h"
 #include "Filiere.h"
 #include "FiliereM.h"
-#include "Exception.h"
+#include "Exception.h"*/
 
+#include "Formation.h"
 
-#include "CategorieM.cpp"
+/*#include "CategorieM.cpp"
 #include "Dossier.cpp"
 #include "Formation.cpp"
 #include "FormationM.cpp"
@@ -48,7 +49,7 @@ class Inscription{};
 class InsriptionM{};
 class Semestre{};
 class UV{};
-class UVM{};
+class UVM{};*/
 
 
 
